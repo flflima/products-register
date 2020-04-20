@@ -5,7 +5,7 @@ import org.scalatra._
 class ProductsRegister extends ScalatraServlet {
 
   get("/") {
-    views.html.hello()
+//    views.html.hello()
   }
 
 }

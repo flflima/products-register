@@ -1,4 +1,4 @@
-i*.class
+*.class
 *.log
 .idea/*
 target/*
